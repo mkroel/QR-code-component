@@ -1,1 +1,2 @@
-# NFT-preview-card-component
+# Scan QR card
+
